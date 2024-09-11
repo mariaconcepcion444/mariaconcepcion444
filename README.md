@@ -9,7 +9,6 @@
 # 💫 About Me:
 Actualmente estoy estudiando en la Facultad de Sistemas Computacionales, en la Universidad Autónoma Benito Juárez de Oaxaca,  me gustaria<br>aprender mas sobre la computación  y me gustaria aprender<br> hacer páginas utilizar el html.
 - 🔭 Actualmente estoy estudiando en la Facultad de Sistemas Computacionales, en la Universidad Autónoma Benito Juárez de Oaxaca
-
 - 🌱 Actualmente estoy aprendiendo *lenguajes de programacion como son CSS, JAVASCRIPT y HTML
 
 - 💻 Soy una pequeña Programadora
