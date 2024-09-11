@@ -2,7 +2,7 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">PERFIL</h2>
  <div align="center">
-<h2> Hi thereSoy maria concepción 
+<h2> Hi there Soy Maria Concepción 
  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
                                                                 💫 About Me 
 
@@ -30,7 +30,7 @@
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
   <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
   </a>
-# 📊 GitHub Stats:
+# 📊 👀 My github Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Mariaconcepcion444&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mariaconcepcion444&theme=gruvbox_light&hide_border=false)<br/>
