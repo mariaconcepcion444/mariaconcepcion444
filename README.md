@@ -25,7 +25,7 @@
 </div>
 
 
-# 💻 Lenguajes de programación 🌐:
+# 💻 Lenguajes de programación 🌐
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
   <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
