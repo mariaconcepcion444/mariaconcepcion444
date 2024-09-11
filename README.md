@@ -19,10 +19,8 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]
-(www.facebook.com/profile.php?id=61553603469359&mibextid=rS40aB7S9Ucbxw6v)
- <a href="https://instagram.com/estrella del mar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
-
+<a href="https://www.facebook.com/shravanatirtha" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+</div>
 
 
 # 💻 Tech Stack:
