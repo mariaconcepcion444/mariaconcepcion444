@@ -4,7 +4,9 @@
  <div align="center">
 <h2> Hi thereSoy maria concepción 
  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-##💫 About Me :
+                                                                ##💫 About Me :
+
+  
 🔭 Actualmente estoy estudiando en la Facultad de Sistemas Computacionales, en la Universidad Autónoma Benito Juárez de Oaxaca
 
 🌱 Actualmente estoy aprendiendo *lenguajes de programacion como son CSS, JAVASCRIPT y HTML
