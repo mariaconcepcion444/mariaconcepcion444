@@ -8,11 +8,14 @@
 
 # 💫 About Me:
 Actualmente estoy estudiando en la Facultad de Sistemas Computacionales, en la Universidad Autónoma Benito Juárez de Oaxaca,  me gustaria<br>aprender mas sobre la computación  y me gustaria aprender<br> hacer páginas utilizar el html.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 - 🔭 Actualmente estoy estudiando en la Facultad de Sistemas Computacionales, en la Universidad Autónoma Benito Juárez de Oaxaca
+
 - 🌱 Actualmente estoy aprendiendo *lenguajes de programacion como son CSS, JAVASCRIPT y HTML
+
 - 💻 Soy una pequeña Programadora
+
 - ⚡ Tengo mucho interes en aprender mas sobre lo que abarca la computacion 
+
 - 📫 Puedes contactarme al correo **ciprianomaria363@gmail.com**
 
 
