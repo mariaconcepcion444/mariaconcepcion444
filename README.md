@@ -31,7 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Mariaconcepcion444&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mariaconcepcion444&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariaconcepcion444&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
+![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mariaconcepcion444&theme=radical&no-frame=false&no-bg=true&margin-w=4)
