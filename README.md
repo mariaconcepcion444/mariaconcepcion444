@@ -30,8 +30,8 @@
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
   <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
   </a>
- <h2> 📊👀 My github Stats</h2>
-:
+# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Mariaconcepcion444&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mariaconcepcion444&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariaconcepcion444&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
