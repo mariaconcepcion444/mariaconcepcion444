@@ -2,15 +2,6 @@
 # <div id="header" align="center">
   <img src="https://media.giphy.com/media/SCTIKERS/giphy.gif" width="100"/> Slogan de Bienvenido
 
-![Banner  Repositorio propio](Tu imagen descarga echo por canva.png)
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]
-
-![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]
 
 #### Información sobre ti, en el sentido de que eres buena, déjalo con los hashtag que están el principio
 
@@ -25,6 +16,15 @@ I am María Concepción
 # Tecnologias (Que dominas en programación)
 
 ---------
+![Banner  Repositorio propio](Tu imagen descarga echo por canva.png)
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]
+
+![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]
 
 Final
 
