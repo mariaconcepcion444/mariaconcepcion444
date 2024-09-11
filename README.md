@@ -21,6 +21,9 @@
 ## 🌐 Socials:
 <a href="https://www.facebook.com/people/Maria-Concepci%C3%B3n/pfbid0266qUCSo7GoeAkoq6pQvtuSNPV6Ph98nKLF1uvxqGdM4hv5DvMui77kL39vy4ruX3l/?mibextid=rS40aB7S9Ucbxw6v" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </div>
+<a href="https://www.instagram.com/estrella%20del%20mar/" alt="instragram"></a>
+
+</div>
 
 
 # 💻 Tech Stack:
