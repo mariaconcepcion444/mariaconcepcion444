@@ -4,14 +4,15 @@
  <div align="center">
 <h2> Hi thereSoy maria concepción 
  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-<!-- BREVE DESCRIPCION -->
-📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+<!-- # 💫 About Me:-->
+🔭 Actualmente estoy estudiando en la Facultad de Sistemas Computacionales, en la Universidad Autónoma Benito Juárez de Oaxaca
+🌱 Actualmente estoy aprendiendo *lenguajes de programacion como son CSS, JAVASCRIPT y HTML
 
-🌱 I am currently in the race **Software Design and Development**
+💻 Soy una pequeña Programadora
 
-🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+⚡ Tengo mucho interes en aprender mas sobre lo que abarca la computacion 
 
-📫 How to reach me **davidmramos30@gmail.com**
+📫 Puedes contactarme al correo *ciprianomaria363@gmail.com*
 
 
 ## 🌐 Socials:
