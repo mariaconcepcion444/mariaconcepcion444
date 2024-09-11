@@ -10,7 +10,8 @@
 🔭 Actualmente estoy estudiando en la Facultad de Sistemas Computacionales, en la Universidad Autónoma Benito Juárez de Oaxaca
 
 🌱 Actualmente estoy aprendiendo *lenguajes de programacion como son CSS, JAVASCRIPT y HTML
-.💻 Soy una pequeña Programadora
+
+💻 Soy una pequeña Programadora
 
 ⚡ Tengo mucho interes en aprender mas sobre lo que abarca la computacion 
 
