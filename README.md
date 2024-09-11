@@ -5,13 +5,13 @@
 <h2> Hi thereSoy maria concepción 
  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
 
-- 🌱 I am currently in the race **Software Design and Development**
+🌱 I am currently in the race **Software Design and Development**
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
 
-- 📫 How to reach me **davidmramos30@gmail.com**
+📫 How to reach me **davidmramos30@gmail.com**
 
 
 ## 🌐 Socials:
