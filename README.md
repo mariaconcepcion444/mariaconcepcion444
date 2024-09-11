@@ -5,7 +5,7 @@
 <h2> Hi thereSoy maria concepción 
  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
  
-
+<br>
 # 💫 About Me:
 Actualmente estoy estudiando en la Facultad de Sistemas Computacionales, en la Universidad Autónoma Benito Juárez de Oaxaca,  me gustaria<br>aprender mas sobre la computación  y me gustaria aprender<br> hacer páginas utilizar el html.
 - 🔭 Actualmente estoy estudiando en la Facultad de Sistemas Computacionales, en la Universidad Autónoma Benito Juárez de Oaxaca
@@ -16,6 +16,8 @@ Actualmente estoy estudiando en la Facultad de Sistemas Computacionales, en la U
 - ⚡ Tengo mucho interes en aprender mas sobre lo que abarca la computacion 
 
 - 📫 Puedes contactarme al correo **ciprianomaria363@gmail.com**
+<br>
+
 
 
 ## 🌐 Socials:
