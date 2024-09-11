@@ -2,16 +2,14 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">PERFIL</h2>
  <div align="center">
-<h2> Hi there 👋Soy maria concepción 
+<h2> Hi thereSoy maria concepción 
  <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
- Hi there 👋Soy maria concepción 
+ 
 
 # 💫 About Me:
 Actualmente estoy estudiando en la Facultad de Sistemas Computacionales, en la Universidad Autónoma Benito Juárez de Oaxaca,  me gustaria<br>aprender mas sobre la computación  y me gustaria aprender<br> hacer páginas utilizar el html.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
-
-- 🔭 I’m currently working on [FaceMask- Access Control](https://github.com/AkhilGKrishnan/Face-Mask-Detector)
-
+- 🔭 Actualmente estoy estudiando en la Facultad de Sistemas Computacionales, en la Universidad Autónoma Benito Juárez de Oaxaca,
 - 🌱 I’m currently learning **Ruby on Rails**
 
 - 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
