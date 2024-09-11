@@ -20,7 +20,6 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]
-(https://www.facebook.com/profile.php?id=61553603469359&mibextid=rS40aB7S9Ucbxw6v)
 
 
 # 💻 Tech Stack:
