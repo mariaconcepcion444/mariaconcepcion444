@@ -8,6 +8,17 @@
 
 # 💫 About Me:
 Actualmente estoy estudiando en la Facultad de Sistemas Computacionales, en la Universidad Autónoma Benito Juárez de Oaxaca,  me gustaria<br>aprender mas sobre la computación  y me gustaria aprender<br> hacer páginas utilizar el html.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
+
+- 🔭 I’m currently working on [FaceMask- Access Control](https://github.com/AkhilGKrishnan/Face-Mask-Detector)
+
+- 🌱 I’m currently learning **Ruby on Rails**
+
+- 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
+
+- 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me](https://akhilgkrishnan.me)
+
+- 📫 preguntame sobre libros y un poco de ciberseguridad
 
 
 ## 🌐 Socials:
